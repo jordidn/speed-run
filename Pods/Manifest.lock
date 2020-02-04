@@ -1,0 +1,15 @@
+PODS:
+  - ObjectMapper (3.4.2)
+  - SwiftAPI (1.6.2)
+
+DEPENDENCIES:
+  - ObjectMapper (= 3.4.2)
+  - SwiftAPI (= 1.6.2)
+
+SPEC CHECKSUMS:
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  SwiftAPI: ea2bd310f2444b4afa83250a17aaefa020bbc42c
+
+PODFILE CHECKSUM: 65312811dd53e75c7aaa02a9b36fb2045a3fbffc
+
+COCOAPODS: 1.4.0

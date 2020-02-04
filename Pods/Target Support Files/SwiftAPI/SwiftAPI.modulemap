@@ -1,0 +1,6 @@
+framework module SwiftAPI {
+  umbrella header "SwiftAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SpeedRunTests {
+  umbrella header "Pods-SpeedRunTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
